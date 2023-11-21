@@ -10,3 +10,20 @@
 
 ## 26.10.2023 
 - Beschreibung der Rahmenbedingungen
+
+## 31.10.2023 
+- 
+
+## 07.11.2023
+- Erstellung des Zeitplans
+
+## 14.11.2023 
+- Erstellung des Zeitplans
+
+## 21.11.2023 
+- Erstellung des Kostenplans
+
+## 26.11.2023
+-Fertigstellung Kostenplan und Zeitplan
+
+  
