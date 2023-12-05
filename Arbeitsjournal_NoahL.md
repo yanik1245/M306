@@ -26,4 +26,10 @@
 ## 26.11.2023
 -Fertigstellung Kostenplan und Zeitplan
 
+## 28.11.2023
+-Arbeit am Einführungskonzept
+
+## 05.12.2023
+-Arbeit am Einführungskonzept
+
   
