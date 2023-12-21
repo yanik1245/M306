@@ -90,13 +90,13 @@
 - **Misserfolg:** Einige Dokumente, insbesondere für die Projektpräsentation, waren noch unvollständig.
 - **Überzeiten:** Keine Überstunden erforderlich.
 
-### 12.12.2023
+#### 12.12.2023
 - **Aktivität:** Teilnahme an der Projektpräsentation in Form eines Marktstands.
 - **Erfolg:** Positive Erfahrung mit der Präsentationsmethode.
 - **Misserfolg:** Keine nennenswerten Misserfolge.
 - **Überzeiten:** Überstunden wurden nicht benötigt.
 
-### 21.12.2023
+#### 21.12.2023
 - **Aktivität:** Abschluss und Abgabe
 - **Erfolg:** Erfolgreiche Fertigstellung des Projekts und rechtzeitige Abgabe
 - **Misserfolg:** Es sind keine Misserfolge aufgetreten
